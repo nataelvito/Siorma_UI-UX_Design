@@ -10,12 +10,15 @@ Telkom University, aplikasi ini hadir sebagai penyedia informasi kepada mahasisw
 laboratorium Telkom University. Dengan demikian, diharapkan aplikasi ini mampu menjadi platform informasi ormawa maupun laboratorium Telkom University yang efektif dan efisien.
 
 **Tools**
+
 Figma
 
 **User**
+
 Admin
 Mahasiswa
 Organizer
 
 **Tanggal Pembuatan**
+
 2/11/2024
